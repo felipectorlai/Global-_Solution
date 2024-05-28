@@ -1,2 +1,1 @@
-# Global Solution
- projeto da faculdade
+Apresentação básica de ZABQS
